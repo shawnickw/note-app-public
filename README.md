@@ -9,4 +9,4 @@ been removed.
 
 **LINK**: https://mern-note-app-frontend.onrender.com/
 
-![Alt text](https://i.imgur.com/RQWZWrv.jpeg)
+![Alt text](https://i.imgur.com/sgVUr2q.png)
