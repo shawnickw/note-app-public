@@ -7,6 +7,6 @@ been removed.
 
 ## Live Preview
 
-**LINK**: https://mern-note-app-frontend.onrender.com/
+**LINK**: https://mern-note-app-frontend.onrender.com/ **(CURRENTLY SUSPENDED)**
 
 ![Alt text](https://i.imgur.com/sgVUr2q.png)
